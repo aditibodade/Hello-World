@@ -1,0 +1,9 @@
+# writing hello world in C programming language
+
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+printf("hello world!");
+getch();
+}
