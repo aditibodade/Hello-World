@@ -7,3 +7,12 @@ void main()
 printf("hello world!");
 getch();
 }
+
+# writing hello world in C++
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+cout<<"hello world"<<endl;
+getch();
+}
