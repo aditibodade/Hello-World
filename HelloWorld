@@ -27,3 +27,5 @@ public class HelloWorld {
         System.out.println(name + ", " + message);
     }
 }
+
+# hello world in javascript
